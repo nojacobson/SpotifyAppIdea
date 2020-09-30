@@ -22,7 +22,8 @@ Possible Ideas I don't know/think aren't possible
 - Stream Data consistenty to let people know what they're friends are listening to
 - Get data of each day to analyze
 - Notify friends when a new song is added to a collabrotive playlist
-
+- suggest concerts that might interest people based on music interest
+  - suggest concerts for groups of friends
 
 
 # Possible Names
