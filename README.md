@@ -14,7 +14,9 @@ Some simple ideas that I want to breathe to life are
 - Make friends and allow people to 'Discover' other people
   - Discover friend's most listened to songs/artists
 - Allow people to 'choose' a favorite song of: Day, Week, Month
-
+- Make recommendations on songs users might enjoy by analyzing what the particular mood/style of music they already listen to
+- Analyze how a playlist captures am emotion/mood
+- 
 
 Possible Ideas I don't know/think aren't possible
 - Stream Data consistenty to let people know what they're friends are listening to
