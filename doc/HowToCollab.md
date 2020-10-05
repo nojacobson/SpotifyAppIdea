@@ -1,5 +1,5 @@
 ### 1. Fork repo on GitHub:
-
+![Fork Icon : GitHub](https://github.com/JasonWherry/SpotifyAppIdea/blob/master/doc/Fork.jpg?raw=true)
 
 ### 2. Clone your Fork:
 
